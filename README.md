@@ -11,7 +11,10 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph-fjqz177.vercel.app/graph?username=Lingbou&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Lingbou" />
+    <img  src="https://github-profile-trophy.vercel.app/?username=Lingbou" />
+</div>
 <!-- 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Lingbou)
 

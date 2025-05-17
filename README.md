@@ -37,7 +37,6 @@
     </p>
   </div>
 
-  <!-- 页脚说明 -->
   <p style="color:#E5E7EB; font-size:0.9em; margin-top:20px;">
     🔧 持续更新中 · 🏆 全栈开发者 · 📚 关注 <a href="https://github.com/Lingbou">仓库</a> 解锁更多项目
   </p>

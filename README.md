@@ -39,4 +39,12 @@
   <p style="color:#E5E7EB; font-size:0.9em; margin-top:20px;">
     🔧 持续更新中 · 🏆 全栈开发者 · 📚 关注 <a href="https://github.com/Lingbou">仓库</a> 解锁更多项目
   </p>
+  
+  <!-- 访问计数器 -->
+  <div style="margin: 20px 0;">
+    <img src="https://profile-counter.glitch.me/Lingbou/count.svg" alt="访问计数器" />
+    <p>感谢您的访问！</p>
+  </div>
+  
+  <!-- 页脚说明 -->
 </div>

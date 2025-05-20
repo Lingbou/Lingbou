@@ -11,21 +11,18 @@
   </div>
 
   <!-- 数据卡片组合 -->
-
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; margin: 25px 0;">
     <img src="https://github-readme-stats.vercel.app/api?username=Lingbou&show_icons=true&theme=radical&custom_title=GitHub%20Stats&icon_color=2B6CB0&text_color=3B82F6&bg_color=0D1117&hide_border=true&line_height=27&count_private=true" width="900">
     <img src="https://github-readme-activity-graph-fjqz177.vercel.app/graph?username=Lingbou&theme=react-dark&hide_border=true&area=true&color=2B6CB0&bg_color=0D1117" width="1000">
   </div>
 
   <!-- 荣誉 -->
-
   <div style="margin: 25px 0;">
     <img src="https://github-profile-trophy.vercel.app/?username=Lingbou&theme=discord&no-frame=true&column=7&margin-w=15&bg_color=0D1117&title_color=3B82F6&text_color=E5E7EB" alt="Trophies">
   </div>
  
 
   <!-- 技能徽章展示 -->
-
   <div style="margin: 25px 0;">
     <h3>🛠️ 技术栈 & 工具</h3>
     <p>

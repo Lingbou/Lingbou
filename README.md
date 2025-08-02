@@ -27,12 +27,6 @@
 
 
 
-  <!-- 访问计数器 -->
-  <div style="margin: 20px 0;">
-    <img src="https://profile-counter.glitch.me/Lingbou/count.svg" alt="访问计数器" />
-    <p>感谢您的访问！</p>
-  </div>
-
   
   <!-- 页脚 说明 -->
 

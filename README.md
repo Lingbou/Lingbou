@@ -24,15 +24,7 @@
   <div style="margin: 25px 0;">
     <img src="https://github-profile-trophy.vercel.app/?username=Lingbou&theme=discord&no-frame=true&column=7&margin-w=15&bg_color=0D1117&title_color=3B82F6&text_color=E5E7EB" alt="Trophies">
   </div>
- 
-  <!-- 技能徽章展示 -->
-  <div style="margin: 25px 0;">
-    <h3>🛠️ 技术栈 & 工具</h3>
-    <p>
-      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-    </p>
-  </div>
+
 
 
   <!-- 访问计数器 -->

@@ -12,7 +12,4 @@
     <img src="https://github-readme-activity-graph-fjqz177.vercel.app/graph?username=Lingbou&theme=react-dark&hide_border=true&area=true&color=2B6CB0&bg_color=0D1117" width="1000">
   </div>
 
-  
-  <!-- 页脚 说明 -->
-
 </div>

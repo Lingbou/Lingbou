@@ -12,13 +12,6 @@
     <img src="https://github-readme-activity-graph-fjqz177.vercel.app/graph?username=Lingbou&theme=react-dark&hide_border=true&area=true&color=2B6CB0&bg_color=0D1117" width="1000">
   </div>
 
-
-  <!-- 荣誉 -->
-  <div style="margin: 25px 0;">
-    <img src="https://github-profile-trophy.vercel.app/?username=Lingbou&theme=discord&no-frame=true&column=7&margin-w=15&bg_color=0D1117&title_color=3B82F6&text_color=E5E7EB" alt="Trophies">
-  </div>
-
-
   
   <!-- 页脚 说明 -->
 

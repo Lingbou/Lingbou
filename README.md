@@ -6,4 +6,5 @@
   
 ![Lingbou's GitHub stats](https://github-readme-stats-psi-ruddy-97.vercel.app/api?username=Lingbou&show_icons=true)
 ![Lingbou's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lingbou&theme=minimal)
+
 </div>

@@ -12,12 +12,12 @@
 
 ## About Me
 
-Hi there! I'm **Lingbou**, a developer who enjoys Linux, backend engineering,
-open source, and cloud native infrastructure.
+一个喜欢把系统跑起来、把问题拆清楚的开发者。
 
-- 就读于 SYUCT
-- 关注 Linux、软件开发、开源和云计算
-- 持续学习新技术，并把想法落到实际项目里
+- 目前就读于 SYUCT
+- 主要关注后端开发、Linux、云原生与基础设施方向
+- 常用 Go / Java / Python 做服务端开发，也会折腾 Rust 和 C/C++
+- 对开源项目、工程效率和可靠性建设保持长期兴趣
 
 ## GitHub Activity
 

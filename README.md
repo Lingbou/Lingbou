@@ -1,25 +1,37 @@
 <div align="center">
-
   <a href="https://github.com/Lingbou">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=2B6CB0&width=500&lines=Welcome+to+Lingbou's+Home!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1200&color=2F81F7&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Lingbou;Linux+%7C+Backend+%7C+Cloud+Native;Keep+building%2C+keep+shipping" alt="Typing SVG">
   </a>
-</br>
-  <img align="right" src="https://count.getloli.com/get/@:lingbou?theme=rule34">
-  
-  ![Lingbou's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lingbou&theme=minimal)
-
+  <br>
+  <a href="https://github.com/Lingbou">
+    <img src="https://komarev.com/ghpvc/?username=Lingbou&style=flat-square&color=2f81f7" alt="Profile views">
+  </a>
 </div>
 
-## 👋 About Me
+---
 
-Hi there! I'm **Lingbou**.
+## About Me
 
-- 🎓 就读于 SYUCT
-- 💼 热爱Linux、软件开发、开源和云计算
-- 🌱 持续学习新技术
+Hi there! I'm **Lingbou**, a developer who enjoys Linux, backend engineering,
+open source, and cloud native infrastructure.
 
+- 就读于 SYUCT
+- 关注 Linux、软件开发、开源和云计算
+- 持续学习新技术，并把想法落到实际项目里
 
-## 🛠️ Tech Stack
+## GitHub Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg">
+    <img src="./profile-3d-contrib/profile-season-animate.svg" alt="Lingbou's 3D GitHub contribution calendar">
+  </picture>
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lingbou&theme=github-compact&hide_border=true&area=true" alt="Lingbou's GitHub activity graph">
+</div>
+
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -50,16 +62,19 @@ Hi there! I'm **Lingbou**.
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-<!-- ## 📊 GitHub Stats
+## Focus
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lingbou&show_icons=true&title_color=2B6CB0&text_color=333&icon_color=2B6CB0&bg_color=ffffff&hide_border=true&count_private=true" alt="Lingbou's GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lingbou&layout=compact&title_color=2B6CB0&text_color=333&icon_color=2B6CB0&bg_color=ffffff&hide_border=true" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lingbou&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true" alt="Lingbou's GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lingbou&layout=compact&theme=github_dark_dimmed&hide_border=true" alt="Top languages">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lingbou&theme=default&hide_border=true&date_format=%5BY%20%5DM%20%5Bj%5D" alt="GitHub Streak"/>
-</div> -->
+| Area | Tools I like |
+| --- | --- |
+| Backend | Spring Boot, Gin, FastAPI |
+| Infrastructure | Linux, Docker, Kubernetes, Nginx |
+| Data & Messaging | MySQL, PostgreSQL, Redis, Kafka, RabbitMQ |
+| Engineering | Git, Maven, Jenkins, open source workflows |
 
 
 ---

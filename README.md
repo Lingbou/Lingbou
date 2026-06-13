@@ -62,19 +62,4 @@ open source, and cloud native infrastructure.
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-## Focus
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lingbou&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true" alt="Lingbou's GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lingbou&layout=compact&theme=github_dark_dimmed&hide_border=true" alt="Top languages">
-</div>
-
-| Area | Tools I like |
-| --- | --- |
-| Backend | Spring Boot, Gin, FastAPI |
-| Infrastructure | Linux, Docker, Kubernetes, Nginx |
-| Data & Messaging | MySQL, PostgreSQL, Redis, Kafka, RabbitMQ |
-| Engineering | Git, Maven, Jenkins, open source workflows |
-
-
 ---

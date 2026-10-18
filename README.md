@@ -2,10 +2,6 @@
   <a href="https://github.com/Lingbou">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1200&color=2F81F7&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Lingbou;Linux+%7C+Backend+%7C+Cloud+Native;Keep+building%2C+keep+shipping" alt="Typing SVG">
   </a>
-  <br>
-  <a href="https://github.com/Lingbou">
-    <img src="https://komarev.com/ghpvc/?username=Lingbou&style=flat-square&color=2f81f7" alt="Profile views">
-  </a>
 </div>
 
 ---
@@ -27,8 +23,6 @@
     <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg">
     <img src="./profile-3d-contrib/profile-season-animate.svg" alt="Lingbou's 3D GitHub contribution calendar">
   </picture>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lingbou&theme=github-compact&hide_border=true&area=true" alt="Lingbou's GitHub activity graph">
 </div>
 
 ## Tech Stack
